@@ -1,0 +1,1501 @@
+customer_id,customer_name,signup_date,country,status
+1,Customer_00001,2023-11-01,Australia,active
+2,Customer_00002,2024-01-01,UAE,active
+3,Customer_00003,2023-07-01,UAE,active
+4,Customer_00004,2024-03-01,United Kingdom,active
+5,Customer_00005,2024-06-01,UAE,active
+6,,2023-03-01,United Kingdom,active
+7,Customer_00007,2023-03-01,Canada,churned
+8,Customer_00008,2023-04-01,India,active
+9,Customer_00009,2023-07-01,Australia,churned
+10,Customer_00010,2023-07-01,UAE,active
+11,Customer_00011,2024-04-01,UAE,active
+12,Customer_00012,2023-06-01,United Kingdom,churned
+13,Customer_00013,2024-06-01,Australia,active
+14,Customer_00014,2024-04-01,United States,active
+15,Customer_00015,2024-07-01,United Kingdom,active
+16,Customer_00016,2024-08-01,Australia,active
+17,Customer_00017,2023-02-01,India,active
+18,Customer_00018,2024-02-01,United States,active
+19,Customer_00019,2024-06-01,Canada,active
+20,Customer_00020,2023-01-01,Egypt,active
+21,Customer_00021,2023-04-01,UAE,active
+22,Customer_00022,2023-06-01,United Kingdom,churned
+23,Customer_00023,2023-05-01,Germany,active
+24,Customer_00024,2024-05-01,United States,active
+25,Customer_00025,2023-03-01,UAE,active
+26,Customer_00026,2024-07-01,Germany,active
+27,Customer_00027,2023-08-01,India,churned
+28,Customer_00028,2023-12-01,UAE,churned
+29,Customer_00029,2023-09-01,India,active
+30,Customer_00030,2023-07-01,India,active
+31,Customer_00031,2024-06-01,Australia,active
+32,Customer_00032,2023-08-01,United Kingdom,churned
+33,Customer_00033,2024-08-01,Egypt,active
+34,Customer_00034,2024-01-01,UAE,churned
+35,Customer_00035,2023-08-01,Egypt,active
+36,Customer_00036,2024-06-01,United Kingdom,active
+37,Customer_00037,2023-06-01,UAE,active
+38,Customer_00038,2023-07-01,Germany,churned
+39,Customer_00039,2024-06-01,Australia,active
+40,Customer_00040,2023-04-01,Egypt,churned
+41,Customer_00041,2024-06-01,India,active
+42,Customer_00042,2023-01-01,Australia,active
+43,Customer_00043,2023-01-01,Australia,active
+44,Customer_00044,2023-03-01,United States,active
+45,Customer_00045,2024-01-01,Australia,active
+46,Customer_00046,2024-06-01,Germany,active
+47,Customer_00047,2024-05-01,Canada,active
+48,Customer_00048,2024-01-01,United States,active
+49,Customer_00049,2024-01-01,Germany,active
+50,Customer_00050,2024-08-01,Germany,active
+51,Customer_00051,2024-07-01,Australia,active
+52,Customer_00052,2023-02-01,India,churned
+53,Customer_00053,2023-12-01,UAE,active
+54,Customer_00054,2023-08-01,United Kingdom,active
+55,Customer_00055,2023-03-01,India,active
+56,Customer_00056,2024-04-01,Australia,active
+57,Customer_00057,2023-11-01,United Kingdom,active
+58,Customer_00058,2024-02-01,Canada,active
+59,Customer_00059,2023-11-01,UAE,churned
+60,Customer_00060,2023-02-01,India,active
+61,Customer_00061,2024-06-01,Egypt,active
+62,Customer_00062,2023-09-01,Australia,active
+63,Customer_00063,2023-05-01,Germany,active
+64,Customer_00064,2024-01-01,India,active
+65,Customer_00065,2023-07-01,United Kingdom,active
+66,Customer_00066,2024-02-01,Australia,active
+67,Customer_00067,2023-11-01,Germany,active
+68,Customer_00068,2023-10-01,United States,active
+69,Customer_00069,2023-02-01,Canada,active
+70,Customer_00070,2023-04-01,United States,active
+71,Customer_00071,2024-06-01,United Kingdom,churned
+72,Customer_00072,2024-08-01,Germany,active
+73,Customer_00073,2023-12-01,Egypt,churned
+74,Customer_00074,2023-10-01,Australia,churned
+75,Customer_00075,2023-04-01,United States,active
+76,Customer_00076,2024-03-01,United Kingdom,active
+77,Customer_00077,2024-01-01,United Kingdom,active
+78,Customer_00078,2023-11-01,Egypt,churned
+79,Customer_00079,2023-06-01,India,active
+80,Customer_00080,2023-02-01,UAE,active
+81,Customer_00081,2024-08-01,Canada,active
+82,Customer_00082,2023-05-01,Canada,active
+83,Customer_00083,2024-02-01,UAE,active
+84,Customer_00084,2023-02-01,India,active
+85,Customer_00085,2024-02-01,Australia,active
+86,Customer_00086,2023-04-01,UAE,active
+87,Customer_00087,2024-02-01,Canada,active
+88,Customer_00088,2023-05-01,India,active
+89,Customer_00089,2023-10-01,UAE,churned
+90,Customer_00090,2023-09-01,Germany,active
+91,Customer_00091,2023-11-01,United Kingdom,active
+92,Customer_00092,2023-07-01,Germany,churned
+93,Customer_00093,2023-07-01,United Kingdom,active
+94,Customer_00094,2023-08-01,Germany,active
+95,Customer_00095,2024-01-01,India,active
+96,Customer_00096,2024-05-01,Germany,active
+97,Customer_00097,2023-08-01,United Kingdom,active
+98,Customer_00098,2023-01-01,United Kingdom,active
+99,Customer_00099,2023-04-01,UAE,active
+100,Customer_00100,2023-03-01,UAE,active
+101,Customer_00101,2024-01-01,UAE,active
+102,Customer_00102,2024-05-01,United States,active
+103,Customer_00103,2023-05-01,Canada,churned
+104,Customer_00104,2023-11-01,UAE,active
+105,Customer_00105,2023-10-01,Egypt,active
+106,Customer_00106,2023-09-01,India,active
+107,Customer_00107,2024-06-01,Egypt,churned
+108,Customer_00108,2023-06-01,Germany,active
+109,Customer_00109,2024-01-01,Germany,churned
+110,Customer_00110,2023-11-01,United States,active
+111,Customer_00111,2024-06-01,United Kingdom,active
+112,Customer_00112,2023-05-01,Egypt,active
+113,Customer_00113,2024-07-01,UAE,active
+114,Customer_00114,2024-06-01,United States,active
+115,Customer_00115,2023-09-01,United Kingdom,active
+116,Customer_00116,2024-05-01,India,active
+117,Customer_00117,2024-01-01,Canada,churned
+118,Customer_00118,2023-07-01,,active
+119,Customer_00119,2024-06-01,India,active
+120,Customer_00120,2023-01-01,UAE,active
+121,Customer_00121,2023-03-01,India,churned
+122,Customer_00122,2024-06-01,UAE,active
+123,Customer_00123,2024-04-01,UAE,active
+124,Customer_00124,2023-06-01,India,active
+125,Customer_00125,2024-08-01,Egypt,active
+126,Customer_00126,2024-02-01,Germany,churned
+127,Customer_00127,2023-05-01,UAE,churned
+128,Customer_00128,2024-06-01,United Kingdom,active
+129,Customer_00129,2024-08-01,UAE,active
+130,Customer_00130,2024-04-01,Germany,active
+131,Customer_00131,2024-01-01,Germany,active
+132,Customer_00132,2024-06-01,United Kingdom,active
+133,Customer_00133,2024-05-01,Canada,active
+134,Customer_00134,2023-10-01,Egypt,active
+135,Customer_00135,2024-04-01,United Kingdom,active
+136,Customer_00136,2024-05-01,Canada,active
+137,Customer_00137,2023-01-01,United Kingdom,active
+138,Customer_00138,2023-10-01,Germany,active
+139,Customer_00139,2024-07-01,Germany,active
+140,Customer_00140,2023-06-01,Australia,active
+141,Customer_00141,2024-01-01,Canada,active
+142,Customer_00142,2023-10-01,India,active
+143,Customer_00143,2023-12-01,Canada,active
+144,Customer_00144,2023-07-01,Canada,active
+145,Customer_00145,2024-01-01,Egypt,active
+146,Customer_00146,2024-04-01,Australia,active
+147,Customer_00147,2024-03-01,,churned
+148,Customer_00148,2024-05-01,India,active
+149,Customer_00149,2023-06-01,Australia,active
+150,Customer_00150,2023-03-01,Canada,active
+151,,2023-11-01,United Kingdom,active
+152,Customer_00152,2023-04-01,UAE,active
+153,,2024-01-01,India,active
+154,Customer_00154,2023-08-01,Australia,active
+155,Customer_00155,2024-03-01,India,active
+156,Customer_00156,2023-10-01,Australia,active
+157,Customer_00157,2023-12-01,UAE,active
+158,Customer_00158,2024-08-01,Egypt,active
+159,Customer_00159,2024-01-01,United Kingdom,active
+160,Customer_00160,2024-07-01,Germany,active
+161,Customer_00161,2023-05-01,Egypt,active
+162,Customer_00162,2024-08-01,United Kingdom,active
+163,Customer_00163,2023-05-01,United Kingdom,active
+164,Customer_00164,2024-03-01,United States,active
+165,Customer_00165,2023-01-01,Germany,active
+166,Customer_00166,2024-02-01,Germany,active
+167,Customer_00167,2024-06-01,Egypt,active
+168,Customer_00168,2023-06-01,Egypt,active
+169,Customer_00169,2023-04-01,Australia,active
+170,Customer_00170,2023-08-01,Egypt,active
+171,Customer_00171,2023-02-01,United Kingdom,active
+172,Customer_00172,2023-01-01,UAE,active
+173,Customer_00173,2023-09-01,United States,active
+174,Customer_00174,2024-05-01,Egypt,active
+175,Customer_00175,2023-09-01,Egypt,active
+176,Customer_00176,2023-06-01,Canada,active
+177,Customer_00177,2023-05-01,Australia,active
+178,Customer_00178,2023-02-01,Australia,active
+179,Customer_00179,2023-08-01,United States,active
+180,Customer_00180,2023-07-01,United States,active
+181,Customer_00181,2023-09-01,Australia,churned
+182,Customer_00182,2023-07-01,United States,active
+183,Customer_00183,2023-12-01,Egypt,active
+184,Customer_00184,2024-03-01,Egypt,active
+185,Customer_00185,2023-01-01,United States,active
+186,Customer_00186,2023-01-01,India,churned
+187,Customer_00187,2023-06-01,India,active
+188,Customer_00188,2023-05-01,,active
+189,Customer_00189,2023-02-01,India,active
+190,Customer_00190,2024-06-01,India,active
+191,Customer_00191,2023-02-01,India,active
+192,Customer_00192,2024-06-01,Australia,churned
+193,Customer_00193,2023-02-01,United States,active
+194,Customer_00194,2024-01-01,United States,active
+195,Customer_00195,2023-08-01,United Kingdom,active
+196,Customer_00196,2023-12-01,Germany,churned
+197,Customer_00197,2023-11-01,,active
+198,Customer_00198,2023-05-01,United Kingdom,active
+199,Customer_00199,2023-03-01,Germany,active
+200,Customer_00200,2024-06-01,United Kingdom,active
+201,Customer_00201,2024-03-01,Canada,active
+202,Customer_00202,2024-04-01,Egypt,active
+203,Customer_00203,2024-01-01,Egypt,active
+204,Customer_00204,2023-11-01,UAE,active
+205,Customer_00205,2024-06-01,Egypt,active
+206,Customer_00206,2023-04-01,Canada,active
+207,Customer_00207,2024-01-01,Australia,active
+208,Customer_00208,2023-05-01,UAE,active
+209,Customer_00209,2024-02-01,UAE,active
+210,Customer_00210,2023-08-01,Egypt,active
+211,Customer_00211,2023-09-01,Egypt,active
+212,Customer_00212,2023-07-01,United Kingdom,churned
+213,Customer_00213,2023-12-01,Canada,active
+214,Customer_00214,2023-02-01,United States,active
+215,Customer_00215,2024-04-01,Australia,active
+216,Customer_00216,2023-09-01,United States,active
+217,Customer_00217,2024-08-01,Australia,active
+218,Customer_00218,2023-09-01,Canada,churned
+219,Customer_00219,2023-03-01,United States,active
+220,Customer_00220,2023-06-01,Canada,active
+221,Customer_00221,2023-10-01,Egypt,active
+222,Customer_00222,2023-08-01,United States,churned
+223,Customer_00223,2023-06-01,UAE,active
+224,Customer_00224,2023-07-01,Egypt,active
+225,Customer_00225,2024-03-01,United Kingdom,active
+226,Customer_00226,2023-08-01,United Kingdom,active
+227,Customer_00227,2023-04-01,India,active
+228,Customer_00228,2024-01-01,Canada,active
+229,Customer_00229,2024-03-01,United Kingdom,active
+230,Customer_00230,2023-10-01,United States,active
+231,Customer_00231,2024-03-01,Germany,active
+232,Customer_00232,2023-04-01,India,active
+233,Customer_00233,2023-03-01,India,churned
+234,Customer_00234,2024-04-01,Australia,active
+235,Customer_00235,2024-04-01,Germany,active
+236,Customer_00236,2023-11-01,India,active
+237,Customer_00237,2023-10-01,Egypt,active
+238,Customer_00238,2023-10-01,Canada,active
+239,Customer_00239,2023-05-01,Germany,active
+240,Customer_00240,2024-03-01,United States,active
+241,Customer_00241,2023-08-01,Germany,active
+242,Customer_00242,2024-04-01,United States,active
+243,Customer_00243,2023-09-01,Germany,active
+244,Customer_00244,2024-05-01,Canada,active
+245,Customer_00245,2024-05-01,United States,active
+246,Customer_00246,2024-05-01,India,churned
+247,Customer_00247,2023-06-01,United Kingdom,active
+248,Customer_00248,2024-02-01,United States,active
+249,Customer_00249,2024-04-01,Egypt,active
+250,Customer_00250,2024-03-01,United Kingdom,active
+251,Customer_00251,2024-06-01,India,active
+252,Customer_00252,2023-04-01,United States,active
+253,Customer_00253,2024-02-01,United States,active
+254,Customer_00254,2024-02-01,Canada,active
+255,Customer_00255,2023-08-01,Egypt,active
+256,Customer_00256,2023-06-01,Egypt,active
+257,Customer_00257,2023-12-01,Egypt,active
+258,Customer_00258,2023-06-01,UAE,active
+259,Customer_00259,2023-12-01,Egypt,churned
+260,Customer_00260,2023-03-01,United States,active
+261,Customer_00261,2023-08-01,Canada,active
+262,Customer_00262,2023-08-01,India,active
+263,Customer_00263,2024-03-01,Egypt,active
+264,Customer_00264,2023-01-01,Australia,active
+265,Customer_00265,2023-08-01,Egypt,active
+266,Customer_00266,2024-02-01,Australia,active
+267,Customer_00267,2023-10-01,Germany,active
+268,Customer_00268,2024-03-01,United States,active
+269,Customer_00269,2024-06-01,Egypt,active
+270,Customer_00270,2024-04-01,Canada,active
+271,Customer_00271,2023-07-01,Australia,active
+272,Customer_00272,2023-03-01,India,active
+273,Customer_00273,2023-02-01,Egypt,active
+274,Customer_00274,2024-01-01,Australia,active
+275,Customer_00275,2023-03-01,UAE,active
+276,Customer_00276,2024-05-01,Canada,active
+277,Customer_00277,2023-12-01,Australia,active
+278,Customer_00278,2023-01-01,United States,churned
+279,Customer_00279,2024-04-01,United States,churned
+280,Customer_00280,2023-04-01,UAE,active
+281,Customer_00281,2024-08-01,Canada,active
+282,Customer_00282,2023-06-01,Australia,active
+283,Customer_00283,2023-12-01,Australia,active
+284,Customer_00284,2023-10-01,United States,churned
+285,Customer_00285,2023-08-01,Egypt,active
+286,Customer_00286,2023-04-01,United States,active
+287,Customer_00287,2023-02-01,Canada,active
+288,Customer_00288,2023-11-01,United States,active
+289,Customer_00289,2024-08-01,Egypt,active
+290,Customer_00290,2023-07-01,Egypt,active
+291,Customer_00291,2023-07-01,UAE,active
+292,Customer_00292,2024-02-01,United Kingdom,active
+293,Customer_00293,2024-08-01,Canada,active
+294,Customer_00294,2023-11-01,Egypt,active
+295,Customer_00295,2024-08-01,India,active
+296,Customer_00296,2024-02-01,Egypt,active
+297,Customer_00297,2024-04-01,United States,active
+298,Customer_00298,2023-05-01,UAE,active
+299,Customer_00299,2023-12-01,United Kingdom,active
+300,Customer_00300,2024-03-01,Germany,active
+301,Customer_00301,2023-08-01,Australia,active
+302,Customer_00302,2024-03-01,Egypt,active
+303,Customer_00303,2023-08-01,Egypt,active
+304,Customer_00304,2024-03-01,Germany,active
+305,Customer_00305,2023-10-01,Germany,active
+306,Customer_00306,2023-02-01,,active
+307,Customer_00307,2023-02-01,Australia,active
+308,Customer_00308,2024-07-01,Egypt,active
+309,Customer_00309,2024-01-01,United States,active
+310,Customer_00310,2023-12-01,Canada,active
+311,Customer_00311,2024-04-01,UAE,active
+312,Customer_00312,2023-06-01,Canada,active
+313,Customer_00313,2023-08-01,Germany,active
+314,Customer_00314,2023-09-01,India,active
+315,Customer_00315,2024-02-01,Germany,active
+316,Customer_00316,2023-11-01,Germany,active
+317,Customer_00317,2023-06-01,United Kingdom,active
+318,Customer_00318,2023-11-01,India,active
+319,Customer_00319,2023-08-01,Germany,active
+320,Customer_00320,2023-05-01,United States,active
+321,Customer_00321,2023-04-01,India,churned
+322,Customer_00322,2023-06-01,Australia,active
+323,Customer_00323,2023-11-01,Australia,active
+324,Customer_00324,2023-08-01,United Kingdom,active
+325,Customer_00325,2023-09-01,United States,active
+326,Customer_00326,2024-04-01,Canada,active
+327,Customer_00327,2024-02-01,Egypt,active
+328,Customer_00328,2023-09-01,Egypt,active
+329,Customer_00329,2023-12-01,United States,active
+330,Customer_00330,2023-01-01,Egypt,active
+331,Customer_00331,2023-09-01,United States,active
+332,Customer_00332,2023-10-01,Canada,active
+333,Customer_00333,2023-06-01,Australia,active
+334,Customer_00334,2023-05-01,United States,active
+335,Customer_00335,2024-03-01,United Kingdom,active
+336,Customer_00336,2023-01-01,Australia,active
+337,Customer_00337,2024-08-01,United States,active
+338,Customer_00338,2024-08-01,Canada,active
+339,Customer_00339,2024-01-01,India,active
+340,Customer_00340,2023-06-01,India,active
+341,Customer_00341,2023-06-01,India,active
+342,Customer_00342,2023-11-01,Australia,churned
+343,Customer_00343,2024-02-01,UAE,active
+344,,2023-08-01,Egypt,active
+345,Customer_00345,2023-09-01,India,active
+346,Customer_00346,2023-02-01,Germany,active
+347,Customer_00347,2024-06-01,United States,active
+348,Customer_00348,2024-07-01,Germany,active
+349,Customer_00349,2023-06-01,United Kingdom,churned
+350,,2024-07-01,India,active
+351,Customer_00351,2024-05-01,India,active
+352,Customer_00352,2023-04-01,Australia,active
+353,Customer_00353,2023-04-01,United Kingdom,active
+354,Customer_00354,2023-09-01,United States,active
+355,Customer_00355,2024-02-01,Germany,active
+356,Customer_00356,2023-08-01,UAE,active
+357,Customer_00357,2024-03-01,United States,active
+358,Customer_00358,2023-04-01,Germany,active
+359,Customer_00359,2024-07-01,United States,active
+360,Customer_00360,2024-02-01,Australia,active
+361,Customer_00361,2023-06-01,Egypt,active
+362,Customer_00362,2024-04-01,Australia,active
+363,Customer_00363,2023-09-01,Australia,active
+364,Customer_00364,2024-04-01,Egypt,active
+365,Customer_00365,2024-03-01,Canada,churned
+366,Customer_00366,2024-02-01,India,active
+367,Customer_00367,2023-03-01,Egypt,active
+368,Customer_00368,2023-01-01,Australia,active
+369,Customer_00369,2024-02-01,Australia,active
+370,Customer_00370,2023-05-01,Germany,active
+371,Customer_00371,2023-02-01,United Kingdom,active
+372,Customer_00372,2023-11-01,Australia,active
+373,Customer_00373,2024-07-01,United States,active
+374,Customer_00374,2024-03-01,India,active
+375,Customer_00375,2023-07-01,India,active
+376,Customer_00376,2023-08-01,India,active
+377,Customer_00377,2024-02-01,UAE,active
+378,Customer_00378,2023-09-01,Egypt,churned
+379,Customer_00379,2023-12-01,Canada,churned
+380,Customer_00380,2024-05-01,Germany,churned
+381,Customer_00381,2023-02-01,Australia,active
+382,Customer_00382,2023-01-01,India,active
+383,Customer_00383,2024-06-01,Canada,active
+384,Customer_00384,2023-06-01,United Kingdom,active
+385,Customer_00385,2024-05-01,United States,active
+386,Customer_00386,2023-06-01,Egypt,churned
+387,Customer_00387,2024-05-01,Canada,active
+388,Customer_00388,2024-08-01,United Kingdom,active
+389,Customer_00389,2024-07-01,Egypt,active
+390,Customer_00390,2023-05-01,Canada,active
+391,Customer_00391,2023-11-01,UAE,active
+392,Customer_00392,2023-01-01,Egypt,active
+393,Customer_00393,2023-06-01,Australia,churned
+394,Customer_00394,2023-09-01,Australia,active
+395,Customer_00395,2023-01-01,India,active
+396,Customer_00396,2024-01-01,Egypt,active
+397,Customer_00397,2023-04-01,United States,active
+398,Customer_00398,2023-04-01,Germany,active
+399,Customer_00399,2024-02-01,Germany,active
+400,Customer_00400,2024-05-01,Egypt,active
+401,Customer_00401,2024-08-01,United Kingdom,active
+402,Customer_00402,2023-04-01,,active
+403,Customer_00403,2024-04-01,Germany,churned
+404,Customer_00404,2024-03-01,Egypt,active
+405,Customer_00405,2024-05-01,United Kingdom,active
+406,Customer_00406,2023-04-01,United States,active
+407,Customer_00407,2023-10-01,Germany,active
+408,Customer_00408,2024-06-01,United Kingdom,active
+409,Customer_00409,2023-12-01,United Kingdom,active
+410,Customer_00410,2023-05-01,Germany,active
+411,Customer_00411,2023-01-01,United Kingdom,active
+412,,2024-03-01,Germany,churned
+413,Customer_00413,2023-02-01,United Kingdom,churned
+414,Customer_00414,2024-05-01,India,active
+415,Customer_00415,2024-02-01,Egypt,active
+416,Customer_00416,2023-06-01,Australia,churned
+417,Customer_00417,2023-05-01,India,active
+418,Customer_00418,2023-02-01,Australia,active
+419,Customer_00419,2023-07-01,United States,active
+420,Customer_00420,2023-12-01,Canada,churned
+421,Customer_00421,2023-07-01,Egypt,active
+422,Customer_00422,2023-10-01,Australia,active
+423,Customer_00423,2024-01-01,Canada,active
+424,Customer_00424,2023-10-01,United Kingdom,active
+425,Customer_00425,2023-05-01,United States,active
+426,Customer_00426,2024-04-01,Egypt,active
+427,Customer_00427,2024-03-01,United Kingdom,active
+428,Customer_00428,2023-10-01,Australia,active
+429,Customer_00429,2023-04-01,Germany,active
+430,Customer_00430,2023-10-01,UAE,active
+431,Customer_00431,2023-08-01,Germany,active
+432,Customer_00432,2023-10-01,Egypt,active
+433,Customer_00433,2023-03-01,Canada,active
+434,Customer_00434,2023-10-01,UAE,active
+435,Customer_00435,2023-02-01,United Kingdom,active
+436,Customer_00436,2023-09-01,India,active
+437,,2024-02-01,Egypt,active
+438,Customer_00438,2023-04-01,United Kingdom,active
+439,Customer_00439,2023-03-01,United Kingdom,churned
+440,Customer_00440,2023-06-01,Germany,active
+441,Customer_00441,2024-07-01,Australia,churned
+442,Customer_00442,2023-06-01,Germany,churned
+443,Customer_00443,2024-07-01,Germany,active
+444,Customer_00444,2023-05-01,Australia,active
+445,Customer_00445,2023-02-01,India,active
+446,,2024-04-01,United States,active
+447,Customer_00447,2023-03-01,UAE,churned
+448,Customer_00448,2023-03-01,Australia,churned
+449,Customer_00449,2023-11-01,United Kingdom,active
+450,Customer_00450,2023-05-01,United Kingdom,active
+451,Customer_00451,2024-01-01,United Kingdom,active
+452,Customer_00452,2023-11-01,Australia,active
+453,Customer_00453,2024-03-01,India,active
+454,Customer_00454,2023-07-01,UAE,active
+455,Customer_00455,2023-06-01,UAE,active
+456,Customer_00456,2023-05-01,Canada,churned
+457,Customer_00457,2024-03-01,United States,active
+458,Customer_00458,2023-08-01,United Kingdom,active
+459,Customer_00459,2024-06-01,India,active
+460,Customer_00460,2023-11-01,United Kingdom,active
+461,Customer_00461,2024-04-01,Australia,active
+462,Customer_00462,2024-02-01,Canada,active
+463,Customer_00463,2024-02-01,Canada,active
+464,Customer_00464,2024-08-01,Germany,active
+465,Customer_00465,2023-10-01,United States,active
+466,Customer_00466,2024-06-01,United States,active
+467,Customer_00467,2024-05-01,Egypt,active
+468,Customer_00468,2023-09-01,United Kingdom,active
+469,Customer_00469,2024-02-01,Canada,active
+470,Customer_00470,2023-10-01,Canada,active
+471,Customer_00471,2024-02-01,United Kingdom,active
+472,Customer_00472,2023-09-01,Germany,active
+473,Customer_00473,2023-10-01,Australia,active
+474,Customer_00474,2023-05-01,Egypt,active
+475,Customer_00475,2024-01-01,United States,active
+476,Customer_00476,2024-08-01,Canada,active
+477,Customer_00477,2023-08-01,Canada,active
+478,Customer_00478,2023-02-01,United Kingdom,churned
+479,Customer_00479,2024-03-01,Canada,active
+480,Customer_00480,2023-05-01,UAE,active
+481,Customer_00481,2024-02-01,Canada,active
+482,Customer_00482,2024-02-01,Germany,active
+483,Customer_00483,2024-07-01,Australia,active
+484,Customer_00484,2023-12-01,Australia,active
+485,Customer_00485,2023-03-01,United Kingdom,active
+486,Customer_00486,2023-06-01,Egypt,active
+487,Customer_00487,2023-06-01,India,active
+488,Customer_00488,2024-07-01,United Kingdom,active
+489,Customer_00489,2024-06-01,Canada,active
+490,Customer_00490,2023-09-01,United Kingdom,active
+491,Customer_00491,2024-06-01,India,active
+492,Customer_00492,2023-12-01,Germany,active
+493,Customer_00493,2023-07-01,Australia,active
+494,Customer_00494,2023-02-01,United Kingdom,active
+495,Customer_00495,2024-07-01,Canada,active
+496,Customer_00496,2024-06-01,UAE,active
+497,Customer_00497,2024-03-01,Egypt,active
+498,Customer_00498,2023-03-01,United States,churned
+499,Customer_00499,2023-12-01,Australia,churned
+500,Customer_00500,2023-08-01,Egypt,churned
+501,Customer_00501,2024-02-01,India,active
+502,Customer_00502,2024-06-01,Egypt,active
+503,Customer_00503,2023-11-01,United Kingdom,active
+504,Customer_00504,2024-07-01,United States,active
+505,Customer_00505,2023-04-01,UAE,active
+506,,2024-07-01,Australia,active
+507,Customer_00507,2024-06-01,Australia,active
+508,Customer_00508,2024-05-01,Egypt,active
+509,Customer_00509,2024-08-01,Canada,active
+510,Customer_00510,2023-05-01,UAE,active
+511,Customer_00511,2023-04-01,UAE,active
+512,Customer_00512,2023-01-01,Egypt,active
+513,Customer_00513,2024-04-01,Egypt,active
+514,Customer_00514,2023-10-01,Egypt,active
+515,Customer_00515,2023-06-01,United States,active
+516,Customer_00516,2023-02-01,Egypt,active
+517,Customer_00517,2023-06-01,UAE,active
+518,Customer_00518,2024-08-01,United Kingdom,active
+519,Customer_00519,2023-02-01,Canada,active
+520,Customer_00520,2023-01-01,United Kingdom,active
+521,Customer_00521,2023-06-01,United Kingdom,active
+522,Customer_00522,2023-07-01,United States,active
+523,Customer_00523,2023-04-01,India,active
+524,Customer_00524,2023-05-01,Canada,active
+525,Customer_00525,2023-11-01,UAE,active
+526,Customer_00526,2023-01-01,United States,active
+527,Customer_00527,2024-08-01,UAE,active
+528,Customer_00528,2023-10-01,Germany,active
+529,Customer_00529,2023-08-01,United Kingdom,active
+530,Customer_00530,2023-02-01,Egypt,active
+531,,2023-04-01,India,active
+532,Customer_00532,2024-06-01,UAE,active
+533,Customer_00533,2023-07-01,Germany,active
+534,Customer_00534,2024-02-01,Egypt,active
+535,Customer_00535,2023-04-01,United Kingdom,active
+536,Customer_00536,2023-08-01,Canada,active
+537,Customer_00537,2023-07-01,United States,active
+538,Customer_00538,2024-05-01,Canada,active
+539,Customer_00539,2023-08-01,United Kingdom,active
+540,Customer_00540,2024-04-01,UAE,active
+541,Customer_00541,2024-07-01,Germany,active
+542,Customer_00542,2023-07-01,United States,active
+543,Customer_00543,2023-05-01,UAE,active
+544,Customer_00544,2024-05-01,Germany,active
+545,Customer_00545,2024-07-01,United States,active
+546,Customer_00546,2024-07-01,Australia,active
+547,Customer_00547,2023-03-01,India,active
+548,Customer_00548,2024-01-01,United States,active
+549,Customer_00549,2023-03-01,United States,active
+550,Customer_00550,2023-08-01,Egypt,active
+551,Customer_00551,2023-09-01,Egypt,active
+552,Customer_00552,2024-07-01,United Kingdom,active
+553,Customer_00553,2024-03-01,Australia,active
+554,Customer_00554,2024-07-01,Australia,churned
+555,Customer_00555,2024-05-01,Egypt,churned
+556,,2023-07-01,Australia,active
+557,Customer_00557,2024-06-01,Australia,active
+558,Customer_00558,2023-02-01,United Kingdom,churned
+559,Customer_00559,2023-05-01,India,active
+560,Customer_00560,2024-06-01,Germany,active
+561,Customer_00561,2023-02-01,Germany,active
+562,Customer_00562,2024-02-01,UAE,active
+563,Customer_00563,2024-06-01,UAE,active
+564,Customer_00564,2023-05-01,Egypt,active
+565,Customer_00565,2024-02-01,Canada,churned
+566,Customer_00566,2023-12-01,Germany,active
+567,Customer_00567,2024-03-01,UAE,active
+568,Customer_00568,2023-07-01,Canada,active
+569,Customer_00569,2023-03-01,United States,active
+570,Customer_00570,2024-07-01,Egypt,active
+571,Customer_00571,2023-03-01,India,active
+572,Customer_00572,2023-07-01,Canada,active
+573,Customer_00573,2023-01-01,United Kingdom,active
+574,Customer_00574,2023-04-01,United Kingdom,active
+575,Customer_00575,2024-02-01,Australia,active
+576,Customer_00576,2023-01-01,Egypt,active
+577,Customer_00577,2023-05-01,United Kingdom,active
+578,Customer_00578,2023-07-01,Canada,active
+579,Customer_00579,2023-07-01,Germany,churned
+580,Customer_00580,2024-08-01,United Kingdom,active
+581,Customer_00581,2023-04-01,Germany,churned
+582,Customer_00582,2023-05-01,India,active
+583,Customer_00583,2024-04-01,Egypt,active
+584,Customer_00584,2023-10-01,India,active
+585,Customer_00585,2023-10-01,Germany,active
+586,Customer_00586,2024-08-01,UAE,active
+587,Customer_00587,2023-05-01,Germany,churned
+588,Customer_00588,2023-01-01,Egypt,active
+589,Customer_00589,2024-06-01,Australia,active
+590,Customer_00590,2023-06-01,India,active
+591,Customer_00591,2023-07-01,United Kingdom,active
+592,Customer_00592,2024-05-01,United States,active
+593,Customer_00593,2024-01-01,Australia,active
+594,Customer_00594,2023-02-01,UAE,active
+595,Customer_00595,2024-06-01,Germany,active
+596,Customer_00596,2024-07-01,United States,active
+597,Customer_00597,2023-01-01,United States,active
+598,Customer_00598,2024-05-01,United States,active
+599,Customer_00599,2023-04-01,UAE,active
+600,Customer_00600,2023-03-01,Germany,active
+601,Customer_00601,2024-04-01,Germany,active
+602,Customer_00602,2023-12-01,UAE,active
+603,Customer_00603,2023-09-01,,active
+604,Customer_00604,2023-12-01,Canada,active
+605,Customer_00605,2023-05-01,United States,active
+606,Customer_00606,2024-02-01,India,churned
+607,Customer_00607,2023-08-01,UAE,active
+608,Customer_00608,2023-07-01,India,active
+609,Customer_00609,2023-12-01,,churned
+610,Customer_00610,2023-08-01,Canada,active
+611,Customer_00611,2023-02-01,Egypt,active
+612,Customer_00612,2023-05-01,Canada,active
+613,Customer_00613,2024-08-01,United Kingdom,active
+614,Customer_00614,2023-06-01,United States,active
+615,Customer_00615,2023-08-01,Germany,active
+616,Customer_00616,2023-04-01,India,active
+617,Customer_00617,2023-02-01,United Kingdom,churned
+618,Customer_00618,2024-07-01,Australia,active
+619,Customer_00619,2023-12-01,Egypt,active
+620,Customer_00620,2024-06-01,United States,active
+621,Customer_00621,2024-05-01,Egypt,active
+622,Customer_00622,2023-08-01,United Kingdom,active
+623,Customer_00623,2023-10-01,Australia,active
+624,Customer_00624,2024-02-01,India,active
+625,Customer_00625,2024-04-01,Canada,active
+626,Customer_00626,2023-10-01,UAE,active
+627,Customer_00627,2023-01-01,Egypt,churned
+628,Customer_00628,2023-06-01,Egypt,active
+629,Customer_00629,2023-07-01,Germany,active
+630,Customer_00630,2023-07-01,United Kingdom,active
+631,Customer_00631,2023-12-01,Australia,churned
+632,Customer_00632,2024-08-01,Canada,active
+633,Customer_00633,2023-03-01,United Kingdom,active
+634,Customer_00634,2023-07-01,United States,active
+635,Customer_00635,2023-06-01,Canada,active
+636,Customer_00636,2023-12-01,Germany,churned
+637,Customer_00637,2024-05-01,Canada,active
+638,Customer_00638,2024-07-01,United Kingdom,active
+639,Customer_00639,2023-11-01,Germany,active
+640,Customer_00640,2023-06-01,United Kingdom,active
+641,Customer_00641,2023-05-01,Australia,active
+642,Customer_00642,2024-05-01,Canada,active
+643,Customer_00643,2023-01-01,UAE,churned
+644,Customer_00644,2023-03-01,Egypt,active
+645,Customer_00645,2023-02-01,,active
+646,Customer_00646,2024-03-01,Egypt,active
+647,Customer_00647,2024-06-01,Australia,active
+648,Customer_00648,2024-05-01,Egypt,active
+649,Customer_00649,2023-06-01,,churned
+650,Customer_00650,2024-05-01,UAE,active
+651,Customer_00651,2023-01-01,United States,active
+652,Customer_00652,2024-08-01,Germany,active
+653,Customer_00653,2023-12-01,Egypt,active
+654,,2024-03-01,UAE,active
+655,Customer_00655,2023-02-01,Canada,active
+656,Customer_00656,2024-08-01,,active
+657,Customer_00657,2023-08-01,Canada,churned
+658,Customer_00658,2023-06-01,Egypt,active
+659,Customer_00659,2024-06-01,Egypt,active
+660,Customer_00660,2023-11-01,UAE,active
+661,Customer_00661,2023-03-01,UAE,active
+662,Customer_00662,2023-05-01,UAE,active
+663,Customer_00663,2023-08-01,Egypt,churned
+664,Customer_00664,2023-02-01,United Kingdom,active
+665,Customer_00665,2023-11-01,India,churned
+666,Customer_00666,2023-09-01,India,churned
+667,Customer_00667,2024-01-01,Australia,active
+668,Customer_00668,2024-03-01,UAE,active
+669,Customer_00669,2023-03-01,India,active
+670,Customer_00670,2024-04-01,Australia,active
+671,Customer_00671,2024-05-01,Australia,active
+672,Customer_00672,2023-01-01,UAE,active
+673,Customer_00673,2024-04-01,India,active
+674,Customer_00674,2024-07-01,India,active
+675,Customer_00675,2023-08-01,Germany,active
+676,,2023-05-01,Egypt,active
+677,Customer_00677,2023-12-01,United Kingdom,active
+678,Customer_00678,2023-06-01,Egypt,active
+679,Customer_00679,2023-05-01,United States,active
+680,Customer_00680,2024-05-01,Germany,active
+681,Customer_00681,2024-01-01,India,churned
+682,Customer_00682,2024-06-01,United States,active
+683,Customer_00683,2024-03-01,India,active
+684,Customer_00684,2024-03-01,India,active
+685,Customer_00685,2024-04-01,India,churned
+686,Customer_00686,2023-07-01,Egypt,active
+687,Customer_00687,2023-03-01,United States,churned
+688,Customer_00688,2023-10-01,UAE,active
+689,Customer_00689,2024-08-01,Germany,active
+690,Customer_00690,2024-05-01,UAE,active
+691,Customer_00691,2024-03-01,Canada,active
+692,Customer_00692,2023-08-01,Germany,active
+693,Customer_00693,2023-05-01,Australia,churned
+694,Customer_00694,2024-05-01,United States,active
+695,Customer_00695,2023-09-01,India,active
+696,Customer_00696,2024-04-01,Germany,active
+697,Customer_00697,2023-05-01,India,active
+698,Customer_00698,2023-10-01,Egypt,active
+699,Customer_00699,2024-04-01,United Kingdom,active
+700,Customer_00700,2024-06-01,Australia,active
+701,Customer_00701,2023-01-01,Canada,active
+702,Customer_00702,2023-08-01,UAE,churned
+703,Customer_00703,2023-06-01,India,active
+704,Customer_00704,2024-03-01,Germany,active
+705,Customer_00705,2024-04-01,Egypt,active
+706,Customer_00706,2024-01-01,United States,active
+707,Customer_00707,2024-03-01,Australia,active
+708,Customer_00708,2023-07-01,UAE,churned
+709,Customer_00709,2023-02-01,Egypt,active
+710,Customer_00710,2023-11-01,United Kingdom,active
+711,Customer_00711,2023-01-01,Germany,active
+712,Customer_00712,2024-01-01,UAE,active
+713,Customer_00713,2024-01-01,United States,active
+714,Customer_00714,2023-11-01,Germany,active
+715,Customer_00715,2024-05-01,Egypt,active
+716,Customer_00716,2023-03-01,Germany,churned
+717,Customer_00717,2023-09-01,Australia,active
+718,Customer_00718,2024-08-01,Canada,active
+719,Customer_00719,2023-06-01,United Kingdom,active
+720,Customer_00720,2024-08-01,Egypt,active
+721,Customer_00721,2023-01-01,,active
+722,Customer_00722,2023-01-01,United Kingdom,active
+723,Customer_00723,2023-05-01,Egypt,churned
+724,Customer_00724,2024-07-01,Canada,active
+725,Customer_00725,2024-01-01,Germany,active
+726,Customer_00726,2023-11-01,United States,active
+727,Customer_00727,2023-03-01,Germany,churned
+728,Customer_00728,2023-03-01,Germany,active
+729,Customer_00729,2024-06-01,United Kingdom,active
+730,Customer_00730,2024-05-01,United Kingdom,active
+731,Customer_00731,2023-02-01,Canada,active
+732,Customer_00732,2023-09-01,United Kingdom,active
+733,Customer_00733,2023-11-01,Canada,active
+734,Customer_00734,2024-03-01,United States,active
+735,Customer_00735,2023-01-01,United Kingdom,churned
+736,Customer_00736,2024-05-01,Canada,active
+737,Customer_00737,2023-11-01,United Kingdom,active
+738,Customer_00738,2023-11-01,United Kingdom,active
+739,Customer_00739,2023-08-01,India,active
+740,Customer_00740,2023-01-01,Germany,churned
+741,Customer_00741,2024-07-01,Egypt,active
+742,Customer_00742,2024-05-01,United States,active
+743,Customer_00743,2024-05-01,Germany,active
+744,Customer_00744,2024-02-01,UAE,active
+745,Customer_00745,2023-10-01,Egypt,active
+746,Customer_00746,2024-07-01,Egypt,churned
+747,Customer_00747,2023-03-01,India,active
+748,Customer_00748,2023-06-01,Germany,active
+749,Customer_00749,2023-09-01,United Kingdom,active
+750,Customer_00750,2024-04-01,Germany,active
+751,Customer_00751,2023-07-01,Egypt,active
+752,Customer_00752,2024-06-01,United States,active
+753,Customer_00753,2023-07-01,United Kingdom,active
+754,Customer_00754,2023-08-01,United States,active
+755,Customer_00755,2023-07-01,UAE,active
+756,Customer_00756,2023-09-01,Canada,active
+757,Customer_00757,2024-05-01,Canada,active
+758,Customer_00758,2023-07-01,India,active
+759,Customer_00759,2023-10-01,Germany,active
+760,Customer_00760,2023-01-01,United States,active
+761,Customer_00761,2023-12-01,Egypt,active
+762,Customer_00762,2023-05-01,United Kingdom,active
+763,Customer_00763,2023-10-01,Egypt,churned
+764,Customer_00764,2023-07-01,United States,active
+765,Customer_00765,2023-08-01,United States,active
+766,Customer_00766,2023-03-01,United States,active
+767,Customer_00767,2023-10-01,Australia,active
+768,Customer_00768,2024-04-01,Canada,active
+769,Customer_00769,2024-01-01,United Kingdom,active
+770,Customer_00770,2023-09-01,Germany,active
+771,Customer_00771,2024-05-01,India,active
+772,Customer_00772,2023-12-01,UAE,active
+773,Customer_00773,2024-01-01,UAE,active
+774,Customer_00774,2023-06-01,Canada,churned
+775,Customer_00775,2024-02-01,United Kingdom,active
+776,Customer_00776,2023-08-01,United Kingdom,active
+777,Customer_00777,2023-04-01,India,active
+778,Customer_00778,2024-04-01,UAE,active
+779,Customer_00779,2023-12-01,United Kingdom,active
+780,Customer_00780,2023-10-01,Egypt,active
+781,Customer_00781,2024-03-01,United States,active
+782,Customer_00782,2023-12-01,Canada,active
+783,Customer_00783,2024-04-01,Germany,active
+784,Customer_00784,2023-09-01,Australia,churned
+785,Customer_00785,2024-08-01,Germany,active
+786,Customer_00786,2023-12-01,UAE,active
+787,Customer_00787,2023-10-01,United States,active
+788,Customer_00788,2024-06-01,Egypt,active
+789,Customer_00789,2024-08-01,United States,active
+790,Customer_00790,2023-06-01,Australia,churned
+791,Customer_00791,2023-05-01,Egypt,active
+792,Customer_00792,2023-11-01,Germany,active
+793,,2023-02-01,India,active
+794,Customer_00794,2024-02-01,Egypt,active
+795,Customer_00795,2024-02-01,India,active
+796,Customer_00796,2023-02-01,United Kingdom,churned
+797,Customer_00797,2023-06-01,UAE,active
+798,Customer_00798,2024-08-01,UAE,active
+799,Customer_00799,2023-04-01,United Kingdom,active
+800,Customer_00800,2023-10-01,Germany,active
+801,Customer_00801,2024-02-01,India,active
+802,Customer_00802,2023-05-01,UAE,active
+803,Customer_00803,2023-07-01,Germany,active
+804,Customer_00804,2024-04-01,Germany,active
+805,Customer_00805,2023-09-01,United Kingdom,active
+806,Customer_00806,2024-05-01,India,active
+807,Customer_00807,2023-02-01,United States,active
+808,Customer_00808,2024-01-01,Canada,active
+809,Customer_00809,2023-07-01,Australia,active
+810,Customer_00810,2024-07-01,Canada,active
+811,Customer_00811,2023-09-01,United States,active
+812,Customer_00812,2023-02-01,United Kingdom,active
+813,Customer_00813,2024-05-01,United States,active
+814,Customer_00814,2023-11-01,United States,active
+815,Customer_00815,2023-02-01,United Kingdom,active
+816,Customer_00816,2024-03-01,Australia,active
+817,Customer_00817,2023-12-01,Egypt,churned
+818,Customer_00818,2024-07-01,Canada,active
+819,Customer_00819,2024-03-01,Australia,active
+820,Customer_00820,2024-01-01,Canada,active
+821,Customer_00821,2023-05-01,Australia,churned
+822,Customer_00822,2024-01-01,Egypt,active
+823,Customer_00823,2023-04-01,UAE,active
+824,Customer_00824,2023-08-01,India,active
+825,Customer_00825,2023-09-01,United States,active
+826,Customer_00826,2023-12-01,Egypt,active
+827,Customer_00827,2023-05-01,India,active
+828,Customer_00828,2023-12-01,Australia,churned
+829,Customer_00829,2023-07-01,United States,active
+830,Customer_00830,2024-07-01,UAE,churned
+831,Customer_00831,2024-08-01,Canada,active
+832,Customer_00832,2024-05-01,UAE,active
+833,Customer_00833,2023-05-01,United States,active
+834,Customer_00834,2024-03-01,Egypt,active
+835,Customer_00835,2024-08-01,India,active
+836,Customer_00836,2024-07-01,UAE,active
+837,Customer_00837,2024-06-01,UAE,active
+838,Customer_00838,2023-02-01,Australia,active
+839,Customer_00839,2023-04-01,Australia,active
+840,Customer_00840,2024-04-01,Egypt,active
+841,Customer_00841,2023-07-01,Canada,active
+842,Customer_00842,2023-10-01,United Kingdom,active
+843,Customer_00843,2023-10-01,United States,active
+844,Customer_00844,2024-04-01,India,active
+845,Customer_00845,2024-03-01,UAE,active
+846,Customer_00846,2023-06-01,United Kingdom,active
+847,Customer_00847,2024-04-01,United Kingdom,active
+848,Customer_00848,2023-10-01,UAE,churned
+849,Customer_00849,2023-12-01,India,active
+850,Customer_00850,2024-05-01,United States,active
+851,Customer_00851,2023-06-01,Germany,churned
+852,Customer_00852,2023-01-01,UAE,churned
+853,Customer_00853,2024-02-01,United States,churned
+854,Customer_00854,2023-06-01,,active
+855,Customer_00855,2023-06-01,UAE,active
+856,Customer_00856,2023-10-01,Canada,active
+857,Customer_00857,2024-06-01,Australia,active
+858,Customer_00858,2024-06-01,United States,active
+859,Customer_00859,2024-03-01,United States,active
+860,Customer_00860,2023-06-01,United States,active
+861,Customer_00861,2024-07-01,Australia,active
+862,Customer_00862,2024-05-01,Germany,active
+863,Customer_00863,2023-01-01,United States,churned
+864,Customer_00864,2023-05-01,United Kingdom,active
+865,Customer_00865,2023-03-01,United Kingdom,active
+866,Customer_00866,2023-07-01,Australia,active
+867,Customer_00867,2024-02-01,India,active
+868,Customer_00868,2023-12-01,UAE,active
+869,Customer_00869,2023-03-01,UAE,churned
+870,Customer_00870,2024-02-01,United States,active
+871,Customer_00871,2023-12-01,UAE,active
+872,Customer_00872,2024-06-01,Australia,active
+873,,2023-07-01,Canada,active
+874,Customer_00874,2024-06-01,United Kingdom,active
+875,Customer_00875,2024-02-01,Canada,active
+876,Customer_00876,2023-06-01,United Kingdom,active
+877,Customer_00877,2023-07-01,United States,active
+878,Customer_00878,2024-03-01,Germany,active
+879,Customer_00879,2024-02-01,Germany,active
+880,Customer_00880,2024-01-01,Egypt,churned
+881,Customer_00881,2023-09-01,Canada,active
+882,Customer_00882,2023-08-01,Canada,active
+883,Customer_00883,2023-12-01,UAE,active
+884,Customer_00884,2024-04-01,Egypt,churned
+885,Customer_00885,2023-06-01,Germany,active
+886,Customer_00886,2024-06-01,Australia,active
+887,Customer_00887,2023-04-01,UAE,active
+888,Customer_00888,2023-10-01,Egypt,churned
+889,Customer_00889,2023-07-01,Australia,churned
+890,Customer_00890,2024-07-01,Egypt,active
+891,Customer_00891,2023-04-01,Egypt,churned
+892,Customer_00892,2023-03-01,Germany,churned
+893,Customer_00893,2024-02-01,United Kingdom,active
+894,Customer_00894,2023-04-01,United Kingdom,active
+895,Customer_00895,2024-08-01,Germany,active
+896,Customer_00896,2024-04-01,Egypt,active
+897,Customer_00897,2024-06-01,India,active
+898,Customer_00898,2023-07-01,UAE,active
+899,Customer_00899,2024-03-01,United Kingdom,active
+900,Customer_00900,2023-12-01,India,active
+901,Customer_00901,2023-09-01,Australia,active
+902,Customer_00902,2023-10-01,Canada,active
+903,Customer_00903,2023-01-01,United Kingdom,active
+904,Customer_00904,2023-03-01,Canada,active
+905,Customer_00905,2023-03-01,Germany,active
+906,Customer_00906,2024-04-01,United States,active
+907,Customer_00907,2023-06-01,United States,active
+908,Customer_00908,2024-03-01,Canada,active
+909,Customer_00909,2024-03-01,UAE,active
+910,Customer_00910,2023-03-01,Australia,active
+911,Customer_00911,2023-07-01,Germany,active
+912,Customer_00912,2023-06-01,United States,active
+913,Customer_00913,2023-03-01,India,active
+914,Customer_00914,2024-05-01,Egypt,active
+915,Customer_00915,2023-08-01,Australia,active
+916,Customer_00916,2024-07-01,Australia,active
+917,Customer_00917,2024-05-01,United Kingdom,active
+918,Customer_00918,2024-06-01,United Kingdom,active
+919,Customer_00919,2024-03-01,Canada,active
+920,Customer_00920,2023-11-01,UAE,active
+921,Customer_00921,2023-09-01,Germany,active
+922,Customer_00922,2023-08-01,United Kingdom,active
+923,Customer_00923,2024-01-01,UAE,active
+924,Customer_00924,2023-09-01,Germany,active
+925,Customer_00925,2024-06-01,United Kingdom,active
+926,Customer_00926,2023-04-01,United Kingdom,active
+927,Customer_00927,2023-08-01,Australia,active
+928,Customer_00928,2023-10-01,United States,active
+929,Customer_00929,2023-06-01,UAE,churned
+930,Customer_00930,2023-05-01,India,active
+931,Customer_00931,2023-12-01,UAE,active
+932,,2023-04-01,United States,active
+933,Customer_00933,2024-04-01,India,active
+934,Customer_00934,2023-08-01,Egypt,active
+935,Customer_00935,2024-04-01,Australia,churned
+936,,2023-02-01,UAE,active
+937,Customer_00937,2024-04-01,India,active
+938,Customer_00938,2023-10-01,India,active
+939,,2024-06-01,United Kingdom,active
+940,Customer_00940,2024-02-01,United States,churned
+941,Customer_00941,2024-05-01,Egypt,active
+942,Customer_00942,2024-02-01,UAE,active
+943,Customer_00943,2023-03-01,Canada,active
+944,Customer_00944,2024-08-01,Canada,active
+945,Customer_00945,2023-08-01,United Kingdom,active
+946,Customer_00946,2024-06-01,India,active
+947,Customer_00947,2023-11-01,UAE,active
+948,Customer_00948,2024-01-01,United States,active
+949,Customer_00949,2023-04-01,United Kingdom,active
+950,Customer_00950,2024-06-01,Canada,active
+951,Customer_00951,2024-04-01,United Kingdom,active
+952,Customer_00952,2023-09-01,UAE,active
+953,Customer_00953,2023-09-01,UAE,active
+954,Customer_00954,2024-04-01,Canada,active
+955,Customer_00955,2023-04-01,UAE,active
+956,Customer_00956,2023-06-01,Egypt,active
+957,,2023-03-01,India,active
+958,Customer_00958,2023-11-01,Germany,active
+959,Customer_00959,2023-08-01,Canada,active
+960,Customer_00960,2024-08-01,India,active
+961,Customer_00961,2024-06-01,India,active
+962,Customer_00962,2023-12-01,Australia,active
+963,Customer_00963,2024-04-01,Germany,active
+964,Customer_00964,2023-11-01,UAE,churned
+965,Customer_00965,2023-09-01,Germany,active
+966,Customer_00966,2024-04-01,United Kingdom,active
+967,Customer_00967,2023-08-01,Canada,active
+968,Customer_00968,2023-07-01,Australia,active
+969,Customer_00969,2023-03-01,UAE,churned
+970,Customer_00970,2024-05-01,Egypt,active
+971,Customer_00971,2024-04-01,Germany,active
+972,Customer_00972,2023-01-01,Canada,churned
+973,Customer_00973,2024-05-01,Canada,active
+974,Customer_00974,2023-05-01,Egypt,active
+975,Customer_00975,2024-06-01,Germany,active
+976,Customer_00976,2023-04-01,Australia,active
+977,Customer_00977,2023-04-01,UAE,active
+978,Customer_00978,2023-06-01,Egypt,active
+979,Customer_00979,2024-07-01,Australia,active
+980,Customer_00980,2024-07-01,United States,active
+981,Customer_00981,2024-02-01,India,churned
+982,Customer_00982,2023-01-01,Canada,churned
+983,Customer_00983,2024-01-01,United Kingdom,active
+984,Customer_00984,2023-06-01,United States,churned
+985,Customer_00985,2024-03-01,Egypt,active
+986,Customer_00986,2023-12-01,Egypt,active
+987,Customer_00987,2024-06-01,Canada,active
+988,Customer_00988,2024-03-01,Canada,active
+989,Customer_00989,2023-07-01,United States,active
+990,,2024-04-01,UAE,active
+991,Customer_00991,2023-05-01,,active
+992,Customer_00992,2023-08-01,Canada,active
+993,Customer_00993,2023-05-01,UAE,churned
+994,Customer_00994,2023-05-01,India,active
+995,Customer_00995,2023-09-01,Australia,churned
+996,Customer_00996,2024-06-01,United States,active
+997,Customer_00997,2023-09-01,Germany,active
+998,Customer_00998,2023-03-01,Germany,active
+999,Customer_00999,2024-04-01,Germany,active
+1000,Customer_01000,2023-02-01,United States,active
+1001,Customer_01001,2023-12-01,India,active
+1002,Customer_01002,2023-05-01,India,active
+1003,Customer_01003,2024-07-01,UAE,active
+1004,Customer_01004,2023-10-01,UAE,active
+1005,Customer_01005,2023-09-01,India,churned
+1006,Customer_01006,2024-07-01,United Kingdom,churned
+1007,Customer_01007,2023-10-01,Egypt,active
+1008,Customer_01008,2024-03-01,,active
+1009,Customer_01009,2023-09-01,Australia,active
+1010,Customer_01010,2023-12-01,Australia,active
+1011,Customer_01011,2023-10-01,United States,churned
+1012,Customer_01012,2023-11-01,Egypt,active
+1013,Customer_01013,2023-09-01,Germany,active
+1014,Customer_01014,2024-02-01,United Kingdom,active
+1015,Customer_01015,2023-10-01,Canada,active
+1016,,2024-01-01,Canada,active
+1017,Customer_01017,2024-03-01,United States,active
+1018,Customer_01018,2023-07-01,Canada,active
+1019,Customer_01019,2023-04-01,Australia,active
+1020,Customer_01020,2023-02-01,United Kingdom,active
+1021,Customer_01021,2023-12-01,Egypt,active
+1022,Customer_01022,2023-05-01,Egypt,active
+1023,Customer_01023,2023-08-01,UAE,active
+1024,Customer_01024,2024-04-01,United States,active
+1025,Customer_01025,2023-10-01,United States,active
+1026,Customer_01026,2024-01-01,Germany,churned
+1027,Customer_01027,2023-03-01,Egypt,churned
+1028,Customer_01028,2024-04-01,Germany,active
+1029,Customer_01029,2023-12-01,UAE,active
+1030,Customer_01030,2023-01-01,UAE,active
+1031,Customer_01031,2023-10-01,Australia,active
+1032,Customer_01032,2024-07-01,Germany,active
+1033,Customer_01033,2023-10-01,Egypt,active
+1034,Customer_01034,2023-08-01,United States,active
+1035,Customer_01035,2023-01-01,UAE,active
+1036,Customer_01036,2024-07-01,United States,active
+1037,Customer_01037,2023-05-01,United States,active
+1038,Customer_01038,2023-12-01,Canada,active
+1039,Customer_01039,2023-09-01,United States,active
+1040,Customer_01040,2023-11-01,United States,active
+1041,Customer_01041,2023-03-01,Australia,churned
+1042,Customer_01042,2024-05-01,United Kingdom,active
+1043,Customer_01043,2023-04-01,Australia,active
+1044,Customer_01044,2024-01-01,Canada,active
+1045,Customer_01045,2023-06-01,Australia,active
+1046,Customer_01046,2024-02-01,UAE,active
+1047,Customer_01047,2023-02-01,Canada,active
+1048,Customer_01048,2023-04-01,United States,active
+1049,Customer_01049,2024-07-01,United States,active
+1050,Customer_01050,2024-01-01,United States,active
+1051,Customer_01051,2024-05-01,United States,active
+1052,Customer_01052,2023-08-01,Australia,active
+1053,Customer_01053,2024-04-01,Germany,churned
+1054,Customer_01054,2023-02-01,United Kingdom,active
+1055,Customer_01055,2024-03-01,Egypt,active
+1056,Customer_01056,2023-03-01,United States,active
+1057,Customer_01057,2024-01-01,United Kingdom,active
+1058,Customer_01058,2023-10-01,Australia,active
+1059,Customer_01059,2024-01-01,Australia,active
+1060,Customer_01060,2023-06-01,Australia,active
+1061,Customer_01061,2023-03-01,Germany,active
+1062,Customer_01062,2024-04-01,United States,active
+1063,Customer_01063,2023-10-01,Germany,active
+1064,Customer_01064,2023-03-01,Germany,active
+1065,Customer_01065,2023-09-01,Canada,active
+1066,Customer_01066,2023-01-01,Canada,active
+1067,Customer_01067,2024-06-01,Canada,active
+1068,Customer_01068,2024-08-01,Germany,active
+1069,Customer_01069,2023-09-01,Canada,active
+1070,Customer_01070,2023-07-01,UAE,churned
+1071,Customer_01071,2024-01-01,United Kingdom,active
+1072,Customer_01072,2023-11-01,Egypt,active
+1073,Customer_01073,2024-04-01,UAE,active
+1074,Customer_01074,2023-05-01,Canada,churned
+1075,Customer_01075,2023-08-01,United Kingdom,active
+1076,Customer_01076,2023-05-01,United States,churned
+1077,Customer_01077,2024-07-01,UAE,active
+1078,Customer_01078,2023-09-01,Germany,churned
+1079,Customer_01079,2024-01-01,Canada,active
+1080,Customer_01080,2024-04-01,Australia,active
+1081,Customer_01081,2024-01-01,Australia,active
+1082,Customer_01082,2023-01-01,United Kingdom,active
+1083,Customer_01083,2024-08-01,India,active
+1084,Customer_01084,2024-05-01,Egypt,active
+1085,Customer_01085,2023-07-01,Germany,active
+1086,Customer_01086,2024-08-01,UAE,active
+1087,Customer_01087,2024-06-01,India,active
+1088,Customer_01088,2023-12-01,UAE,active
+1089,Customer_01089,2023-09-01,United Kingdom,churned
+1090,Customer_01090,2023-08-01,Canada,active
+1091,Customer_01091,2023-06-01,,active
+1092,Customer_01092,2023-05-01,Canada,active
+1093,Customer_01093,2023-03-01,Germany,churned
+1094,Customer_01094,2023-04-01,Australia,active
+1095,Customer_01095,2024-08-01,Germany,active
+1096,Customer_01096,2023-07-01,UAE,active
+1097,Customer_01097,2023-05-01,United States,active
+1098,Customer_01098,2024-06-01,Australia,active
+1099,Customer_01099,2023-12-01,Germany,active
+1100,Customer_01100,2023-01-01,Australia,active
+1101,Customer_01101,2023-06-01,United States,active
+1102,Customer_01102,2024-04-01,Canada,active
+1103,Customer_01103,2023-06-01,United States,churned
+1104,Customer_01104,2024-02-01,United States,active
+1105,Customer_01105,2023-12-01,,active
+1106,Customer_01106,2023-01-01,United Kingdom,active
+1107,Customer_01107,2023-03-01,Australia,active
+1108,Customer_01108,2023-02-01,Canada,active
+1109,Customer_01109,2024-05-01,Egypt,active
+1110,Customer_01110,2024-03-01,Canada,active
+1111,Customer_01111,2023-03-01,United States,active
+1112,Customer_01112,2024-02-01,Australia,active
+1113,Customer_01113,2023-04-01,Australia,active
+1114,Customer_01114,2023-07-01,UAE,active
+1115,Customer_01115,2024-02-01,Canada,active
+1116,Customer_01116,2024-06-01,United States,active
+1117,Customer_01117,2023-06-01,Canada,churned
+1118,Customer_01118,2023-05-01,United Kingdom,active
+1119,Customer_01119,2023-01-01,Germany,active
+1120,Customer_01120,2023-09-01,India,active
+1121,Customer_01121,2023-12-01,Canada,active
+1122,Customer_01122,2023-03-01,Canada,active
+1123,Customer_01123,2024-02-01,United States,active
+1124,Customer_01124,2024-01-01,UAE,active
+1125,Customer_01125,2023-04-01,United States,active
+1126,Customer_01126,2023-02-01,UAE,active
+1127,Customer_01127,2023-04-01,Egypt,active
+1128,Customer_01128,2023-04-01,Germany,active
+1129,Customer_01129,2023-04-01,India,active
+1130,Customer_01130,2024-04-01,Germany,active
+1131,Customer_01131,2023-05-01,Egypt,active
+1132,Customer_01132,2023-11-01,Egypt,active
+1133,Customer_01133,2024-04-01,Egypt,active
+1134,Customer_01134,2024-02-01,United States,active
+1135,Customer_01135,2023-09-01,Egypt,active
+1136,Customer_01136,2024-03-01,Germany,active
+1137,Customer_01137,2023-01-01,United Kingdom,active
+1138,Customer_01138,2024-01-01,India,active
+1139,Customer_01139,2023-07-01,United Kingdom,churned
+1140,Customer_01140,2023-04-01,United Kingdom,churned
+1141,Customer_01141,2023-04-01,,active
+1142,Customer_01142,2024-02-01,India,active
+1143,Customer_01143,2024-08-01,United Kingdom,active
+1144,Customer_01144,2023-03-01,Australia,active
+1145,,2023-07-01,United Kingdom,active
+1146,Customer_01146,2023-06-01,Canada,active
+1147,Customer_01147,2023-10-01,Canada,churned
+1148,Customer_01148,2023-09-01,Australia,churned
+1149,Customer_01149,2024-02-01,Germany,active
+1150,Customer_01150,2023-03-01,United States,active
+1151,,2023-11-01,Australia,active
+1152,Customer_01152,2023-03-01,India,active
+1153,Customer_01153,2024-05-01,Australia,active
+1154,Customer_01154,2024-02-01,Germany,active
+1155,Customer_01155,2024-06-01,United States,active
+1156,Customer_01156,2024-03-01,UAE,active
+1157,Customer_01157,2024-02-01,Egypt,churned
+1158,Customer_01158,2023-08-01,United Kingdom,active
+1159,Customer_01159,2024-05-01,Canada,active
+1160,Customer_01160,2023-08-01,Germany,active
+1161,Customer_01161,2023-05-01,United States,churned
+1162,Customer_01162,2023-05-01,UAE,active
+1163,Customer_01163,2023-11-01,United States,active
+1164,Customer_01164,2023-11-01,Egypt,active
+1165,Customer_01165,2023-06-01,United States,active
+1166,,2023-12-01,United Kingdom,churned
+1167,Customer_01167,2023-05-01,United States,active
+1168,Customer_01168,2024-07-01,India,active
+1169,,2023-01-01,United States,churned
+1170,Customer_01170,2023-01-01,Australia,churned
+1171,Customer_01171,2023-07-01,Australia,active
+1172,Customer_01172,2024-07-01,Canada,active
+1173,Customer_01173,2023-05-01,United States,active
+1174,Customer_01174,2024-08-01,Germany,active
+1175,Customer_01175,2023-07-01,India,churned
+1176,Customer_01176,2023-07-01,UAE,active
+1177,Customer_01177,2023-03-01,Australia,active
+1178,Customer_01178,2024-03-01,United Kingdom,active
+1179,Customer_01179,2024-06-01,United States,active
+1180,Customer_01180,2024-05-01,UAE,active
+1181,Customer_01181,2023-03-01,Egypt,active
+1182,Customer_01182,2024-02-01,UAE,active
+1183,Customer_01183,2023-09-01,UAE,active
+1184,Customer_01184,2023-06-01,UAE,active
+1185,Customer_01185,2024-04-01,Germany,active
+1186,Customer_01186,2024-01-01,United States,active
+1187,Customer_01187,2024-06-01,Germany,active
+1188,Customer_01188,2024-06-01,UAE,active
+1189,Customer_01189,2024-06-01,United States,active
+1190,Customer_01190,2023-03-01,UAE,active
+1191,Customer_01191,2024-01-01,India,active
+1192,Customer_01192,2023-10-01,United States,active
+1193,Customer_01193,2023-04-01,United Kingdom,active
+1194,Customer_01194,2023-01-01,Australia,active
+1195,Customer_01195,2023-05-01,UAE,active
+1196,Customer_01196,2024-05-01,Australia,churned
+1197,Customer_01197,2024-02-01,Germany,churned
+1198,Customer_01198,2024-04-01,Australia,active
+1199,Customer_01199,2024-07-01,Germany,active
+1200,Customer_01200,2023-01-01,United Kingdom,active
+1201,Customer_01201,2023-09-01,Australia,active
+1202,Customer_01202,2024-03-01,Egypt,active
+1203,Customer_01203,2024-03-01,United Kingdom,active
+1204,Customer_01204,2024-02-01,Egypt,active
+1205,Customer_01205,2023-03-01,United Kingdom,active
+1206,Customer_01206,2023-03-01,United Kingdom,active
+1207,Customer_01207,2023-09-01,India,active
+1208,Customer_01208,2023-11-01,Germany,churned
+1209,Customer_01209,2023-07-01,UAE,active
+1210,Customer_01210,2024-02-01,Egypt,active
+1211,Customer_01211,2023-05-01,United States,churned
+1212,Customer_01212,2023-07-01,UAE,active
+1213,,2023-03-01,Egypt,active
+1214,Customer_01214,2023-11-01,United States,active
+1215,Customer_01215,2024-03-01,India,active
+1216,Customer_01216,2024-08-01,India,active
+1217,Customer_01217,2023-05-01,Canada,churned
+1218,Customer_01218,2024-01-01,Australia,active
+1219,Customer_01219,2023-02-01,United Kingdom,active
+1220,Customer_01220,2023-11-01,Germany,active
+1221,Customer_01221,2024-06-01,UAE,active
+1222,Customer_01222,2023-02-01,Germany,active
+1223,Customer_01223,2023-08-01,Canada,active
+1224,Customer_01224,2023-03-01,United Kingdom,active
+1225,Customer_01225,2023-11-01,United Kingdom,active
+1226,Customer_01226,2024-06-01,Germany,active
+1227,Customer_01227,2023-10-01,Canada,active
+1228,Customer_01228,2024-03-01,India,churned
+1229,Customer_01229,2023-07-01,United Kingdom,active
+1230,Customer_01230,2024-05-01,UAE,active
+1231,Customer_01231,2023-05-01,Germany,active
+1232,Customer_01232,2023-12-01,Germany,active
+1233,Customer_01233,2023-08-01,United Kingdom,churned
+1234,Customer_01234,2023-12-01,Canada,active
+1235,Customer_01235,2023-06-01,Egypt,active
+1236,Customer_01236,2023-11-01,India,churned
+1237,Customer_01237,2023-06-01,Canada,active
+1238,Customer_01238,2024-03-01,United Kingdom,active
+1239,Customer_01239,2023-05-01,United States,churned
+1240,,2023-07-01,United Kingdom,active
+1241,Customer_01241,2023-01-01,Germany,active
+1242,Customer_01242,2023-10-01,Australia,active
+1243,Customer_01243,2023-01-01,United States,active
+1244,Customer_01244,2023-10-01,Germany,churned
+1245,Customer_01245,2024-06-01,United States,active
+1246,Customer_01246,2024-02-01,India,active
+1247,Customer_01247,2023-11-01,Egypt,active
+1248,Customer_01248,2023-05-01,Germany,churned
+1249,Customer_01249,2024-06-01,Australia,active
+1250,Customer_01250,2023-01-01,United Kingdom,active
+1251,,2023-04-01,Canada,active
+1252,Customer_01252,2023-02-01,Egypt,active
+1253,Customer_01253,2023-08-01,Australia,active
+1254,Customer_01254,2023-04-01,Egypt,active
+1255,Customer_01255,2023-04-01,Egypt,active
+1256,Customer_01256,2024-06-01,United Kingdom,active
+1257,Customer_01257,2023-11-01,United Kingdom,active
+1258,Customer_01258,2024-03-01,,active
+1259,Customer_01259,2023-11-01,Germany,active
+1260,Customer_01260,2024-03-01,UAE,churned
+1261,Customer_01261,2024-04-01,Canada,active
+1262,Customer_01262,2023-09-01,Australia,active
+1263,Customer_01263,2024-05-01,United States,active
+1264,Customer_01264,2023-03-01,United Kingdom,churned
+1265,Customer_01265,2024-07-01,Germany,active
+1266,Customer_01266,2023-10-01,Germany,churned
+1267,Customer_01267,2023-04-01,United States,active
+1268,Customer_01268,2024-06-01,Canada,active
+1269,Customer_01269,2024-02-01,Canada,active
+1270,Customer_01270,2023-11-01,Australia,active
+1271,Customer_01271,2023-06-01,India,active
+1272,Customer_01272,2024-01-01,India,churned
+1273,Customer_01273,2024-05-01,Canada,active
+1274,Customer_01274,2023-08-01,Germany,active
+1275,Customer_01275,2023-04-01,United Kingdom,active
+1276,Customer_01276,2023-04-01,Germany,active
+1277,Customer_01277,2024-04-01,Australia,active
+1278,Customer_01278,2024-01-01,Australia,active
+1279,Customer_01279,2023-06-01,Germany,churned
+1280,Customer_01280,2023-10-01,United States,active
+1281,Customer_01281,2023-04-01,United States,churned
+1282,Customer_01282,2023-07-01,United States,active
+1283,Customer_01283,2024-05-01,UAE,active
+1284,Customer_01284,2023-06-01,United Kingdom,active
+1285,Customer_01285,2024-08-01,United States,churned
+1286,Customer_01286,2024-02-01,Australia,active
+1287,Customer_01287,2023-02-01,India,churned
+1288,Customer_01288,2023-07-01,UAE,active
+1289,Customer_01289,2023-07-01,Australia,churned
+1290,Customer_01290,2023-12-01,India,active
+1291,Customer_01291,2024-08-01,UAE,active
+1292,Customer_01292,2023-06-01,UAE,active
+1293,Customer_01293,2023-04-01,United States,active
+1294,Customer_01294,2024-04-01,Australia,active
+1295,Customer_01295,2024-01-01,,active
+1296,Customer_01296,2023-08-01,India,active
+1297,Customer_01297,2024-02-01,Germany,active
+1298,Customer_01298,2023-10-01,UAE,active
+1299,Customer_01299,2024-06-01,India,active
+1300,Customer_01300,2024-07-01,Germany,active
+1301,Customer_01301,2023-07-01,United Kingdom,churned
+1302,Customer_01302,2024-03-01,United Kingdom,active
+1303,Customer_01303,2023-11-01,Germany,active
+1304,Customer_01304,2024-03-01,Egypt,active
+1305,Customer_01305,2023-08-01,Germany,active
+1306,Customer_01306,2023-07-01,UAE,active
+1307,Customer_01307,2023-01-01,United States,active
+1308,Customer_01308,2024-05-01,United States,active
+1309,Customer_01309,2023-11-01,Australia,active
+1310,,2023-08-01,UAE,active
+1311,Customer_01311,2023-11-01,Germany,active
+1312,Customer_01312,2024-08-01,United Kingdom,active
+1313,Customer_01313,2024-05-01,Egypt,active
+1314,Customer_01314,2024-06-01,United States,active
+1315,Customer_01315,2023-08-01,Egypt,active
+1316,Customer_01316,2024-02-01,Egypt,active
+1317,Customer_01317,2023-11-01,India,active
+1318,Customer_01318,2024-05-01,Germany,active
+1319,Customer_01319,2024-03-01,United States,active
+1320,Customer_01320,2023-11-01,United States,active
+1321,Customer_01321,2023-10-01,Australia,active
+1322,Customer_01322,2024-03-01,United States,active
+1323,Customer_01323,2023-11-01,United Kingdom,active
+1324,Customer_01324,2023-03-01,United States,active
+1325,Customer_01325,2023-02-01,Germany,active
+1326,Customer_01326,2024-08-01,Egypt,active
+1327,Customer_01327,2023-06-01,India,active
+1328,Customer_01328,2024-05-01,Egypt,active
+1329,Customer_01329,2023-03-01,Germany,active
+1330,Customer_01330,2023-03-01,Australia,churned
+1331,Customer_01331,2023-01-01,United States,active
+1332,Customer_01332,2023-05-01,UAE,churned
+1333,Customer_01333,2024-08-01,Germany,active
+1334,Customer_01334,2023-12-01,,active
+1335,Customer_01335,2023-01-01,India,active
+1336,Customer_01336,2024-04-01,Canada,active
+1337,Customer_01337,2024-07-01,Australia,churned
+1338,Customer_01338,2023-03-01,Canada,active
+1339,Customer_01339,2023-12-01,Germany,active
+1340,Customer_01340,2024-08-01,Germany,active
+1341,Customer_01341,2023-07-01,Germany,churned
+1342,Customer_01342,2023-07-01,UAE,active
+1343,Customer_01343,2024-01-01,Canada,active
+1344,Customer_01344,2024-08-01,India,active
+1345,Customer_01345,2024-07-01,United Kingdom,active
+1346,Customer_01346,2024-04-01,United States,active
+1347,Customer_01347,2023-06-01,Canada,active
+1348,Customer_01348,2023-10-01,Egypt,active
+1349,Customer_01349,2023-04-01,India,active
+1350,Customer_01350,2023-08-01,Germany,active
+1351,Customer_01351,2024-08-01,United Kingdom,active
+1352,Customer_01352,2023-02-01,Germany,active
+1353,Customer_01353,2023-03-01,Germany,active
+1354,Customer_01354,2023-02-01,United States,active
+1355,Customer_01355,2023-04-01,Germany,active
+1356,Customer_01356,2024-01-01,Australia,churned
+1357,Customer_01357,2023-08-01,Australia,active
+1358,Customer_01358,2024-04-01,,active
+1359,Customer_01359,2023-12-01,Australia,active
+1360,Customer_01360,2024-07-01,Egypt,active
+1361,Customer_01361,2023-07-01,Canada,active
+1362,Customer_01362,2023-08-01,Australia,active
+1363,Customer_01363,2023-01-01,Canada,active
+1364,Customer_01364,2024-07-01,UAE,active
+1365,Customer_01365,2024-05-01,Germany,active
+1366,Customer_01366,2023-06-01,Australia,active
+1367,Customer_01367,2023-05-01,Australia,active
+1368,Customer_01368,2024-07-01,Germany,active
+1369,Customer_01369,2023-11-01,UAE,active
+1370,Customer_01370,2024-07-01,United States,active
+1371,Customer_01371,2023-07-01,India,active
+1372,Customer_01372,2023-04-01,United States,active
+1373,Customer_01373,2023-12-01,Canada,active
+1374,Customer_01374,2024-06-01,UAE,active
+1375,Customer_01375,2023-03-01,UAE,active
+1376,Customer_01376,2024-03-01,Australia,active
+1377,Customer_01377,2023-01-01,Canada,active
+1378,Customer_01378,2024-03-01,Canada,active
+1379,Customer_01379,2024-06-01,Egypt,active
+1380,Customer_01380,2024-05-01,Canada,active
+1381,Customer_01381,2024-01-01,India,active
+1382,Customer_01382,2023-11-01,Australia,active
+1383,Customer_01383,2023-03-01,Germany,active
+1384,Customer_01384,2023-11-01,Egypt,active
+1385,Customer_01385,2024-07-01,Egypt,active
+1386,Customer_01386,2023-08-01,India,churned
+1387,Customer_01387,2023-06-01,United States,active
+1388,Customer_01388,2024-06-01,UAE,active
+1389,Customer_01389,2023-11-01,UAE,active
+1390,Customer_01390,2024-07-01,India,active
+1391,Customer_01391,2023-01-01,United States,churned
+1392,Customer_01392,2023-04-01,Australia,active
+1393,Customer_01393,2024-02-01,UAE,active
+1394,Customer_01394,2024-04-01,India,churned
+1395,Customer_01395,2024-08-01,United States,active
+1396,Customer_01396,2023-06-01,Australia,active
+1397,Customer_01397,2023-06-01,Canada,active
+1398,Customer_01398,2023-04-01,United States,active
+1399,Customer_01399,2024-03-01,United States,churned
+1400,Customer_01400,2023-04-01,Australia,active
+1401,Customer_01401,2024-07-01,Australia,active
+1402,Customer_01402,2023-12-01,Canada,active
+1403,Customer_01403,2024-02-01,Germany,churned
+1404,Customer_01404,2023-06-01,United Kingdom,active
+1405,Customer_01405,2024-03-01,United Kingdom,active
+1406,Customer_01406,2023-05-01,Egypt,active
+1407,Customer_01407,2023-04-01,Canada,active
+1408,Customer_01408,2023-02-01,India,active
+1409,Customer_01409,2023-04-01,Germany,active
+1410,Customer_01410,2023-07-01,Australia,active
+1411,Customer_01411,2023-03-01,United States,active
+1412,Customer_01412,2024-04-01,India,active
+1413,Customer_01413,2023-08-01,Australia,active
+1414,Customer_01414,2023-01-01,Australia,active
+1415,Customer_01415,2024-06-01,UAE,active
+1416,Customer_01416,2023-10-01,United Kingdom,active
+1417,Customer_01417,2024-02-01,UAE,active
+1418,Customer_01418,2024-01-01,Germany,active
+1419,Customer_01419,2024-04-01,India,active
+1420,Customer_01420,2023-01-01,India,active
+1421,Customer_01421,2023-08-01,UAE,active
+1422,Customer_01422,2023-06-01,United States,active
+1423,Customer_01423,2023-12-01,India,active
+1424,Customer_01424,2024-07-01,UAE,active
+1425,Customer_01425,2023-01-01,Egypt,active
+1426,Customer_01426,2024-08-01,Canada,active
+1427,Customer_01427,2023-10-01,India,active
+1428,Customer_01428,2024-06-01,Egypt,active
+1429,Customer_01429,2024-08-01,Canada,active
+1430,Customer_01430,2023-04-01,Australia,active
+1431,Customer_01431,2023-05-01,Egypt,active
+1432,Customer_01432,2024-04-01,Germany,active
+1433,Customer_01433,2023-09-01,Australia,active
+1434,Customer_01434,2023-10-01,Canada,churned
+1435,Customer_01435,2023-07-01,Canada,active
+1436,Customer_01436,2023-04-01,Canada,active
+1437,Customer_01437,2024-05-01,Canada,active
+1438,Customer_01438,2023-10-01,United States,active
+1439,Customer_01439,2023-01-01,Canada,active
+1440,Customer_01440,2024-07-01,United States,active
+1441,Customer_01441,2023-03-01,India,active
+1442,Customer_01442,2024-06-01,Canada,active
+1443,Customer_01443,2024-03-01,Germany,active
+1444,Customer_01444,2023-08-01,United Kingdom,active
+1445,Customer_01445,2023-08-01,United States,churned
+1446,Customer_01446,2023-02-01,UAE,active
+1447,Customer_01447,2023-08-01,Canada,active
+1448,Customer_01448,2024-07-01,India,active
+1449,Customer_01449,2024-06-01,United Kingdom,churned
+1450,,2024-08-01,India,active
+1451,Customer_01451,2024-02-01,India,active
+1452,Customer_01452,2023-11-01,Australia,active
+1453,Customer_01453,2024-05-01,Australia,active
+1454,Customer_01454,2023-05-01,United States,active
+1455,Customer_01455,2024-07-01,Canada,active
+1456,Customer_01456,2023-11-01,Egypt,active
+1457,Customer_01457,2023-09-01,Germany,churned
+1458,Customer_01458,2024-02-01,UAE,churned
+1459,Customer_01459,2023-12-01,Egypt,active
+1460,Customer_01460,2023-10-01,UAE,active
+1461,Customer_01461,2024-07-01,Germany,active
+1462,Customer_01462,2023-08-01,Egypt,active
+1463,Customer_01463,2024-05-01,UAE,active
+1464,Customer_01464,2023-05-01,Germany,active
+1465,Customer_01465,2023-09-01,United Kingdom,active
+1466,Customer_01466,2023-06-01,Egypt,churned
+1467,Customer_01467,2023-04-01,Germany,active
+1468,Customer_01468,2023-01-01,India,churned
+1469,Customer_01469,2023-12-01,United States,active
+1470,Customer_01470,2023-06-01,Australia,active
+1471,Customer_01471,2024-08-01,UAE,active
+1472,Customer_01472,2024-08-01,Germany,active
+1473,Customer_01473,2023-07-01,UAE,active
+1474,Customer_01474,2023-01-01,Canada,active
+1475,Customer_01475,2024-03-01,Germany,active
+1476,Customer_01476,2024-03-01,Canada,active
+1477,Customer_01477,2023-08-01,Australia,churned
+1478,Customer_01478,2024-04-01,Canada,active
+1479,Customer_01479,2023-03-01,United States,active
+1480,Customer_01480,2023-09-01,United States,active
+1481,Customer_01481,2023-05-01,UAE,churned
+1482,Customer_01482,2023-12-01,United Kingdom,active
+1483,Customer_01483,2023-02-01,UAE,churned
+1484,Customer_01484,2023-05-01,India,active
+1485,Customer_01485,2023-04-01,United Kingdom,active
+1486,Customer_01486,2024-02-01,United States,active
+1487,Customer_01487,2023-09-01,Egypt,active
+1488,Customer_01488,2024-03-01,UAE,active
+1489,Customer_01489,2023-03-01,India,active
+1490,Customer_01490,2024-03-01,United Kingdom,active
+1491,Customer_01491,2023-12-01,India,active
+1492,Customer_01492,2023-10-01,United States,active
+1493,Customer_01493,2023-08-01,Australia,churned
+1494,Customer_01494,2024-08-01,Germany,active
+1495,Customer_01495,2024-01-01,UAE,active
+1496,Customer_01496,2024-06-01,United States,active
+1497,Customer_01497,2023-06-01,Canada,active
+1498,Customer_01498,2023-12-01,Canada,active
+1499,Customer_01499,2024-02-01,Germany,active
+1500,Customer_01500,2024-02-01,United States,active

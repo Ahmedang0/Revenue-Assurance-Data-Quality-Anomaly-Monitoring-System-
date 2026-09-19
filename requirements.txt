@@ -1,0 +1,9 @@
+# For local development, prefer: pip install -e ".[dev]"
+# This file is kept for environments that just want the runtime deps.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.3
+psycopg2-binary>=2.9
+SQLAlchemy>=2.0

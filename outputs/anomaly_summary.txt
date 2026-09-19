@@ -1,0 +1,24 @@
+Anomaly Monitoring — Summary
+========================================
+
+1. Monthly revenue z-score anomalies:
+   2023-05: revenue=$19,502.35  z-score=2.51
+   2024-07: revenue=$68,730.38  z-score=3.04
+
+2. IQR-based invoice outliers: 1,578 invoices flagged (fences: $-100.80 - $193.20)
+   Total value flagged: $350,496.83
+
+3. Isolation Forest anomalies: 167 invoices flagged
+   Total value flagged: $42,035.13
+   Top 10 most anomalous:
+ invoice_id  customer_id  amount  expected_amount
+       1042           82 2224.60           208.95
+      18737         1379 2207.18           208.95
+       3254          240 2004.75           208.95
+       4488          328 1956.46           208.95
+      18531         1364 1663.64           208.95
+      12727          943 1777.11           208.95
+       6496          473  865.39            82.95
+       5930          431  886.43            82.95
+      16104         1186  913.63            82.95
+      11368          838  694.44            82.95

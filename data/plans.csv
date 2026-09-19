@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_price,tax_rate_pct
+1,Starter,9.0,5.0
+2,Growth,29.0,5.0
+3,Pro,79.0,5.0
+4,Enterprise,199.0,5.0

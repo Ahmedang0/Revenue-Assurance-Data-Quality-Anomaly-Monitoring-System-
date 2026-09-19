@@ -1,0 +1,6 @@
+dimension,n_invoices,defective_rows,score_pct
+Completeness,20547.0,367.0,98.21
+Validity,20547.0,221.0,98.92
+Timeliness,20547.0,206.0,99.0
+Uniqueness,20547.0,142.0,99.31
+Consistency,20547.0,81.0,99.61

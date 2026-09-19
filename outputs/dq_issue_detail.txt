@@ -1,0 +1,8 @@
+Data Quality Issue Detail
+========================================
+Duplicate invoice numbers: 142.0 duplicate groups, $11,460.82 at risk
+Orphan invoices (bad customer FK): 81.0, $4,019.96 at risk
+Orphan payments (bad invoice FK): 59
+Late invoices (>30 days after billing month): 206.0, avg 83.2 days late
+Negative invoice amounts: 119
+Invalid tax rates (outside 0-30%): 102
